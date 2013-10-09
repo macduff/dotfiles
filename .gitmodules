@@ -25,3 +25,6 @@
 [submodule "vim/bundle/vim-liquid"]
 	path = vim/bundle/vim-liquid
 	url = https://github.com/tpope/vim-liquid.git
+[submodule "vim/bundle/vim-arduino"]
+	path = vim/bundle/vim-arduino
+	url = https://github.com/kingbin/vim-arduino.git
